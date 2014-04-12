@@ -10,4 +10,8 @@
  So it will restrict the user to input not more than 10 character.<br/>
  This plugin is free to use and distribute.<br/>
  And anybody willing to upgrade or enhance the plugin are welcome.<br/>
+ <br/>
+ <hr/>
+ <a href="http://embed.plnkr.co/GMvZqTpvcVhZ1mcKbKJh/preview" target="_blank">Demo</a>
+ <hr/>
  
